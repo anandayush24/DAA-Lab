@@ -48,3 +48,13 @@ Lab 8:
 Q1. WAP to multiply two numbers using recursion (using addition operator).
 Q2. WAP to print multiplication table of any number (n) using recursion.
 Q3. WAP to implement Matrix Chain Multiplication using dynamic program must show the calculation table.
+
+
+Lab 9:
+Q1. WAP to implement LC using DP mush show the calculation table,up arrow,left arrow L, tilt arrow T.
+Q2. WAP to implement prims algorithm to find the MST of any graph using greedy approach, your program must show the intermediate calculation and path.
+
+Lab 10:
+Q1. Using Disjoint set data structure and kruskal algorithm find the MST of any graph. Show the result of find and union operation stepwise.
+Q2. WAP to implement BFS.
+Q3. WAP to implement DFS.
